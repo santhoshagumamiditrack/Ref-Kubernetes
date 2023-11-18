@@ -1,4 +1,3 @@
-# Ref-Kubernetes
 minikube start --driver=docker
 
 minikube delete
